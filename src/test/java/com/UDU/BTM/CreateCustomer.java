@@ -8,6 +8,7 @@ public class CreateCustomer {
 	public void createTest1()
 	{
 		System.out.println("create success");
+		System.out.println("create success by pankaj");
 	}
 
 }
