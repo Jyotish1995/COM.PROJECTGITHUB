@@ -9,5 +9,5 @@ public class CreateCustomer2 {
 	{
 		System.out.println("create  test2 success");
 	}
-
+//trfyujmko
 }
